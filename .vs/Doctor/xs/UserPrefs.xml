@@ -1,0 +1,5 @@
+﻿<Properties StartupConfiguration="{1594C84A-42AE-4B85-81CC-A33656AD1E19}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.service PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.ItemProperties.docker-compose PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
