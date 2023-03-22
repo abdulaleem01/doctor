@@ -34,6 +34,10 @@ namespace service.Controllers
             return Ok(users);
         }
 
+        [HttpGet("test")]
+        public ActionResult TestRun(){
+            return Ok("Done");
+        }
 
 
     }
