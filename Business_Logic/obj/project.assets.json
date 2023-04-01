@@ -3263,11 +3263,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/abdulaleem/Documents/githubactions/untitled folder 3/doctor/Business_Logic/Business_Logic.csproj",
+      "projectUniqueName": "/Users/abdulaleem/Documents/newcompose/doctor/Business_Logic/Business_Logic.csproj",
       "projectName": "Business_Logic",
-      "projectPath": "/Users/abdulaleem/Documents/githubactions/untitled folder 3/doctor/Business_Logic/Business_Logic.csproj",
+      "projectPath": "/Users/abdulaleem/Documents/newcompose/doctor/Business_Logic/Business_Logic.csproj",
       "packagesPath": "/Users/abdulaleem/.nuget/packages/",
-      "outputPath": "/Users/abdulaleem/Documents/githubactions/untitled folder 3/doctor/Business_Logic/obj/",
+      "outputPath": "/Users/abdulaleem/Documents/newcompose/doctor/Business_Logic/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/abdulaleem/.nuget/NuGet/NuGet.Config"
@@ -3282,11 +3282,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/Users/abdulaleem/Documents/githubactions/untitled folder 3/doctor/Doctor/Doctor.csproj": {
-              "projectPath": "/Users/abdulaleem/Documents/githubactions/untitled folder 3/doctor/Doctor/Doctor.csproj"
+            "/Users/abdulaleem/Documents/newcompose/doctor/Doctor/Doctor.csproj": {
+              "projectPath": "/Users/abdulaleem/Documents/newcompose/doctor/Doctor/Doctor.csproj"
             },
-            "/Users/abdulaleem/Documents/githubactions/untitled folder 3/doctor/Model/Model.csproj": {
-              "projectPath": "/Users/abdulaleem/Documents/githubactions/untitled folder 3/doctor/Model/Model.csproj"
+            "/Users/abdulaleem/Documents/newcompose/doctor/Model/Model.csproj": {
+              "projectPath": "/Users/abdulaleem/Documents/newcompose/doctor/Model/Model.csproj"
             }
           }
         }
@@ -3316,7 +3316,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.100/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.202/RuntimeIdentifierGraph.json"
       }
     }
   }

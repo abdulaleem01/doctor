@@ -1,0 +1,17 @@
+/Users/abdulaleem/Documents/newcompose/doctor/Business_Logic/bin/Debug/net6.0/Business_Logic.deps.json
+/Users/abdulaleem/Documents/newcompose/doctor/Business_Logic/bin/Debug/net6.0/Business_Logic.dll
+/Users/abdulaleem/Documents/newcompose/doctor/Business_Logic/bin/Debug/net6.0/Business_Logic.pdb
+/Users/abdulaleem/Documents/newcompose/doctor/Business_Logic/bin/Debug/net6.0/Doctor.dll
+/Users/abdulaleem/Documents/newcompose/doctor/Business_Logic/bin/Debug/net6.0/Model.dll
+/Users/abdulaleem/Documents/newcompose/doctor/Business_Logic/bin/Debug/net6.0/Doctor.pdb
+/Users/abdulaleem/Documents/newcompose/doctor/Business_Logic/bin/Debug/net6.0/Model.pdb
+/Users/abdulaleem/Documents/newcompose/doctor/Business_Logic/obj/Debug/net6.0/Business_Logic.csproj.AssemblyReference.cache
+/Users/abdulaleem/Documents/newcompose/doctor/Business_Logic/obj/Debug/net6.0/Business_Logic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abdulaleem/Documents/newcompose/doctor/Business_Logic/obj/Debug/net6.0/Business_Logic.AssemblyInfoInputs.cache
+/Users/abdulaleem/Documents/newcompose/doctor/Business_Logic/obj/Debug/net6.0/Business_Logic.AssemblyInfo.cs
+/Users/abdulaleem/Documents/newcompose/doctor/Business_Logic/obj/Debug/net6.0/Business_Logic.csproj.CoreCompileInputs.cache
+/Users/abdulaleem/Documents/newcompose/doctor/Business_Logic/obj/Debug/net6.0/Business_Logic.csproj.CopyComplete
+/Users/abdulaleem/Documents/newcompose/doctor/Business_Logic/obj/Debug/net6.0/Business_Logic.dll
+/Users/abdulaleem/Documents/newcompose/doctor/Business_Logic/obj/Debug/net6.0/refint/Business_Logic.dll
+/Users/abdulaleem/Documents/newcompose/doctor/Business_Logic/obj/Debug/net6.0/Business_Logic.pdb
+/Users/abdulaleem/Documents/newcompose/doctor/Business_Logic/obj/Debug/net6.0/ref/Business_Logic.dll

@@ -1,0 +1,17 @@
+/Users/abdulaleem/Documents/newcompose/doctor/Doctor/bin/Debug/net6.0/Doctor.deps.json
+/Users/abdulaleem/Documents/newcompose/doctor/Doctor/bin/Debug/net6.0/Doctor.runtimeconfig.json
+/Users/abdulaleem/Documents/newcompose/doctor/Doctor/bin/Debug/net6.0/Doctor.dll
+/Users/abdulaleem/Documents/newcompose/doctor/Doctor/bin/Debug/net6.0/Doctor.pdb
+/Users/abdulaleem/Documents/newcompose/doctor/Doctor/bin/Debug/net6.0/Model.dll
+/Users/abdulaleem/Documents/newcompose/doctor/Doctor/bin/Debug/net6.0/Model.pdb
+/Users/abdulaleem/Documents/newcompose/doctor/Doctor/obj/Debug/net6.0/Doctor.csproj.AssemblyReference.cache
+/Users/abdulaleem/Documents/newcompose/doctor/Doctor/obj/Debug/net6.0/Doctor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abdulaleem/Documents/newcompose/doctor/Doctor/obj/Debug/net6.0/Doctor.AssemblyInfoInputs.cache
+/Users/abdulaleem/Documents/newcompose/doctor/Doctor/obj/Debug/net6.0/Doctor.AssemblyInfo.cs
+/Users/abdulaleem/Documents/newcompose/doctor/Doctor/obj/Debug/net6.0/Doctor.csproj.CoreCompileInputs.cache
+/Users/abdulaleem/Documents/newcompose/doctor/Doctor/obj/Debug/net6.0/Doctor.csproj.CopyComplete
+/Users/abdulaleem/Documents/newcompose/doctor/Doctor/obj/Debug/net6.0/Doctor.dll
+/Users/abdulaleem/Documents/newcompose/doctor/Doctor/obj/Debug/net6.0/refint/Doctor.dll
+/Users/abdulaleem/Documents/newcompose/doctor/Doctor/obj/Debug/net6.0/Doctor.pdb
+/Users/abdulaleem/Documents/newcompose/doctor/Doctor/obj/Debug/net6.0/Doctor.genruntimeconfig.cache
+/Users/abdulaleem/Documents/newcompose/doctor/Doctor/obj/Debug/net6.0/ref/Doctor.dll

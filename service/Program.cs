@@ -3,6 +3,13 @@ using Doctor;
 
 var builder = WebApplication.CreateBuilder(args);
 
+builder.Services.AddControllers();
+
+builder.Services.AddCors(p => p.AddPolicy("corspolicy", build =>
+{
+    build.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader();
+}));
+
 // Add services to the container.
 
 builder.Services.AddControllers();
@@ -12,7 +19,7 @@ builder.Services.AddSwaggerGen();
 
 builder.Services.AddScoped<Doctor.Entities.DoctorContext>();
 builder.Services.AddScoped<ILogic, Logic>();
-builder.Services.AddScoped<IDoctor<Doctor.Entities.Doctor>,Doctorrepo>();
+builder.Services.AddScoped<IDoctor<Doctor.Entities.Doctor>, Doctorrepo>();
 builder.Services.AddScoped<IDoctorAv<Doctor.Entities.DoctorAvailability>, DoctorAv>();
 builder.Services.AddScoped<Mapper>();
 
@@ -29,6 +36,8 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
+
+app.UseCors("corspolicy");
 
 app.UseHttpsRedirection();
 

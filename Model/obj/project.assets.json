@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/abdulaleem/Documents/githubactions/untitled folder 3/doctor/Model/Model.csproj",
+      "projectUniqueName": "/Users/abdulaleem/Documents/newcompose/doctor/Model/Model.csproj",
       "projectName": "Model",
-      "projectPath": "/Users/abdulaleem/Documents/githubactions/untitled folder 3/doctor/Model/Model.csproj",
+      "projectPath": "/Users/abdulaleem/Documents/newcompose/doctor/Model/Model.csproj",
       "packagesPath": "/Users/abdulaleem/.nuget/packages/",
-      "outputPath": "/Users/abdulaleem/Documents/githubactions/untitled folder 3/doctor/Model/obj/",
+      "outputPath": "/Users/abdulaleem/Documents/newcompose/doctor/Model/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/abdulaleem/.nuget/NuGet/NuGet.Config"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.100/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.202/RuntimeIdentifierGraph.json"
       }
     }
   }
